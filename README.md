@@ -1,0 +1,2 @@
+# IndicatorCCBot-
+calculate bollinger bands
